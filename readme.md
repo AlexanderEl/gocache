@@ -47,4 +47,4 @@ With some fine tuning of the benchmark tests, I am positive this can be pushed f
 This package is licensed under the MIT License - see the LICENSE file for details.
 
 ## Reference
-Project inspired a video from [anthdm](https://github.com/anthdm)
+Project inspired by a video from [anthdm](https://github.com/anthdm)
