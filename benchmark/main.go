@@ -2,11 +2,12 @@ package main
 
 import (
 	"fmt"
-	"gocache"
 	"math/rand"
 	"strconv"
 	"sync"
 	"time"
+
+	"github.com/AlexanderEl/gocache"
 )
 
 type RunnerOpts struct {
